@@ -56,6 +56,10 @@ Warhammer 40,000 9th Edition, Battlescribe Data Compilation by moonfarm.io
 	3. Import Your Army, example: "Unaligned - Monsters and Gribblies.cat". located in the army-points folder	
 
 
+## Please follow us on facebook! ##
+https://www.facebook.com/moonfarm.io/
+
+
 ## Special Thanks Too ##
 
 * [BattleScribe homepage][]
